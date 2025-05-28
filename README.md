@@ -150,4 +150,4 @@ This repository outlines a comprehensive roadmap to becoming a highly proficient
 
 ## 📂 License
 
-MIT © [Your Name]
+MIT © [jay Prakash]
