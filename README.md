@@ -1,4 +1,4 @@
-# 🧠 Advanced Data Scientist Roadmap (5–10 Years Experience)
+# 🧠 Advanced Data Scientist Roadmap 
 
 ![Advanced Data Scientist Roadmap](./file-QEtGAWbUfJWefdhLrBSRAr)
 
