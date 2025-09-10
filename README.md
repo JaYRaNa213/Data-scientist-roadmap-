@@ -7,20 +7,6 @@ This repository outlines a comprehensive roadmap to becoming a highly proficient
 
 
 
-
-# VitalMind — Simple System Architecture
-
-```mermaid
-flowchart LR
-    A[User\n(Youth, Text/Voice)] -->|text / voice input| B[Our App\n(Web / Mobile Frontend)]
-    B -->|HTTPS / WebSocket| C[Backend API\n(Node.js)]
-    C -->|analyze query| D[ML Model\n(NLP / LLM / Analysis)]
-    D -->|send advice text| E[Voice API (TTS)\n(VAPI / Polly / ElevenLabs)]
-    E -->|speech / audio| F[Frontend Playback\n(Text + Audio Response)]
-    C -->|advice text| F
-    F -->|response| A
-
-```
 ---
 
 ## 📍 PHASE 1: STRONG FOUNDATIONS
