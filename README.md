@@ -1,6 +1,6 @@
 # 🧠 Advanced Data Scientist Roadmap 
 
-![Advanced Data Scientist Roadmap](./file-QEtGAWbUfJWefdhLrBSRAr)
+![Advanced Data Scientist Roadmap](./file_00000000712c61f985f353875a17c79c.png)
 
 This repository outlines a comprehensive roadmap to becoming a highly proficient Data Scientist with 5 to 10 years of experience. It is designed to guide professionals from strong foundations through to strategic leadership in the field of data science and applied AI.
 
